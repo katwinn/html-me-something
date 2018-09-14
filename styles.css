@@ -1,8 +1,28 @@
 body {
     background-image: url("https://78.media.tumblr.com/de9a30261ac5de7fda47326f2dc9c727/tumblr_pf1yzd5ozL1wgpbv4o1_540.png");
     background-size: 100% 100%;
-    font-family: "Raleway", Arial, sans-serif
+    font-family: "Raleway", Arial, sans-serif;
+    margin: 5px;
 }
+
 h1 {
-    background-color: rgb(255, 255, 255)
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 10px;
+    border: 4px solid rgb(45, 241, 255);
+}
+.half {
+    border-radius: 8px;
+    border: 4px solid;
+}
+h4,
+p {
+    border: 4px solid rgb(45, 241, 255); 
+    background-color: pink; 
+}
+h2 {
+    border: 4px solid rgb(45, 241, 255);
+    background-color: pink;
+}
+#About {
+    border: 4px solid rgb(45, 241, 255);
 }
